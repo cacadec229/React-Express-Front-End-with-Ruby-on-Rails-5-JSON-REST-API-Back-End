@@ -1,0 +1,9 @@
+/backend/.bundle
+/backend/log/*
+/backend/tmp/*
+/backend/!/log/.keep
+/backend/!/tmp/.keep
+/backend/.byebug_history
+
+/frontend/node_modules/*
+.DS_Store
